@@ -1,0 +1,19 @@
+.wrap {
+  padding: 100px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  margin-left: -1px;
+  border: 1px solid blue;
+}/*# sourceMappingURL=App.css.map */
